@@ -1,0 +1,3 @@
+Using data that compiled information about every edit made on Romanian Wikipedia over a period of roughly three years, I created a network of editors and studied the existence of reverts (when a user undoes changes made by another user). 
+
+Social theory was applied to this project in order to explore whether there were differences in characteristics among reverting users in certain contexts (Wikipedia seniority, etc). The complexity of this task required solutions to be programmed from scratch rather than relying on existing Python packages, demonstrating ability to innovate efficient analytical solutions to problems.
